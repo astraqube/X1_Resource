@@ -1,0 +1,9 @@
+[{
+  "id":1,
+  "code" : "INR" ,
+  "longName" : {"en" :"Indian Rupee"},
+  "shortName" : {"en" :"Indian Rupee"},
+  "exchangeRate" : 1.4,
+  "bufferRate" : 1,
+  "baseCurrencyCode" : "SAR"
+}]

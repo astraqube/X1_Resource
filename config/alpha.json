@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "project": "node-sample-app",
+  "environment": "alpha",
+  "self_host": "0.0.0.0",
+  "self_port": "9002",
+  "mongo": {
+      "host": "",
+      "port":22402,
+      "database": "",
+      "username": "",
+      "password": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+    "version": "1.0",
+    "project": "X1 Resource",
+    "environment": "development",
+    "self_host": "0.0.0.0",
+    "self_port": "9000",
+    "context_root": "/api/v1",
+    "mongo":{
+        "host":"localhost",
+        "port":27017,
+        "database":"X_ONE",
+        "username":"",
+        "password":""
+    },
+    "swagger": {
+      "title": "X1 API Documentation",
+        "version": "1.0.0"
+    },
+    "server": {
+      "bannerText": "X1 API"
+    }
+}

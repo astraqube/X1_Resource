@@ -1,0 +1,2 @@
+require('./Resource');
+require('./User');
