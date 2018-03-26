@@ -1,4 +1,4 @@
-# ITB Trip API
+# X1 Resource API
 
 # Initial Set-up
 * First Clone the repo
